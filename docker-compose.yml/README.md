@@ -1,6 +1,3 @@
-# platform
-Docker-compose file
-//start of docker-compose.yml
 version: '3'
 
 services:
